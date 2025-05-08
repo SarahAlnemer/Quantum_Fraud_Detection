@@ -1,0 +1,9 @@
+This repository includes a modified version of the "Fraudulent Transactions Prediction" dataset from Kaggle.
+
+Original dataset by vardhansiramdasu: https://www.kaggle.com/datasets/vardhansiramdasu/fraudulent-transactions-prediction
+
+Licensed under the Open Data Commons Open Database License (ODbL) v1.0:
+https://opendatacommons.org/licenses/odbl/1-0/
+
+This modified version remains under the ODbL license.
+If you reuse or redistribute this dataset, you must comply with the ODbL license terms.
